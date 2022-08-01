@@ -24,7 +24,7 @@ Oxygen isotope samples used in this analysis are available from the National Cen
 
 If you use the code for the MCEOF function in your work, please cite:
 
-Orrison, R. (2022). SAMS MCEOF (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5889393 
+Orrison, Rebecca. (2022). SASM-MCEOF-v1.1.0. Zenodo. [code, data set]. https://doi.org/10.5281/zenodo.6949234
 
 *and* 
 
