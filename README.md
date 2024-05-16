@@ -28,7 +28,6 @@ Orrison, Rebecca. (2022). SASM-MCEOF-v1.1.0. Zenodo. [code, data set]. https://d
 
 *and* 
 
-Orrison, R., Vuille, M., Smerdon, J. E., Apaéstegui, J., Campos, J. L. P. S., Cruz, F. W., and Della Libera, M. E.: South American Monsoon variability over the last millennium in paleoclimate records and isotope-enabled climate models, Clim. Past Discuss. [preprint], https://doi.org/10.5194/cp-2022-6, in review, 2022.
-
+Orrison, R., Vuille, M., Smerdon, J. E., Apaéstegui, J., Campos, J. L. P. S., Cruz, F. W., and Della Libera, M. E.: South American Monsoon variability over the last millennium in paleoclimate records and isotope-enabled climate models, Clim. Past, 18, 2045–2062, doi: 10.5194/cp-18-2045-2022
 
 
